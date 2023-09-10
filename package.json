@@ -11,6 +11,7 @@
     "name": "Daisuke Akazawa",
     "url": "https://github.com/akkadaska"
   },
+  "publisher": "akkadaska",
   "repository": {
     "type": "git",
     "url": "https://github.com/akkadaska/typescript-type-name-sync-autocomplete"
