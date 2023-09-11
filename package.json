@@ -2,7 +2,7 @@
   "name": "vscode-typescript-type-name-sync-autocomplete",
   "displayName": "TypeScript Type-Name-Sync Autocomplete",
   "description": "Seamlessly sync and autocomplete TypeScript variable names and types, turning declarations into `const apple: Apple.`",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "engines": {
     "vscode": "^1.81.0"
@@ -14,7 +14,7 @@
   "publisher": "akkadaska",
   "repository": {
     "type": "git",
-    "url": "https://github.com/akkadaska/typescript-type-name-sync-autocomplete"
+    "url": "https://github.com/akkadaska/vscode-typescript-type-name-sync-autocomplete"
   },
   "categories": [
     "Programming Languages",
